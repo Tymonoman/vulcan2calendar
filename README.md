@@ -19,7 +19,7 @@ Vulcan2Calendar is a Python application that fetches exam data from the Vulcan A
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/Tymonoman/vulcan2calendar.git
-    cd Vulcan2Calendar
+    cd vulcan2calendar
     ```
 
 2. **Create a virtual environment**:
